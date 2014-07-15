@@ -1,6 +1,1 @@
-Codefish
-======================
-
-This application is used for screencast tutorials about how to set up Codeship projects with Ruby on Rails applications.
-
-![Codeship Status](https://www.codeship.io/projects/f134ea80-0cd3-0131-8052-366ad2a83d89/status)
+[ ![Codeship Status for amitkumarpatel/codefish-rails](https://www.codeship.io/projects/85906500-eb37-0131-a8c5-72d6c0443bcf/status)](https://www.codeship.io/projects/26479)
